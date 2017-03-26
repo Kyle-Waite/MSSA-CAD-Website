@@ -1,0 +1,20 @@
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\roslyn\csc.exe
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\roslyn\vbc.exe
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\roslyn\VBCSCompiler.exe
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\MSSA CDA Website.dll.config
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\MSSA CDA Website.dll
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\MSSA CDA Website.pdb
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\obj\Debug\MSSA CDA Website.csprojResolveAssemblyReference.cache
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\obj\Debug\MSSA CDA Website.dll
+c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\obj\Debug\MSSA CDA Website.pdb
