@@ -18,3 +18,23 @@ c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA 
 c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\obj\Debug\MSSA CDA Website.csprojResolveAssemblyReference.cache
 c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\obj\Debug\MSSA CDA Website.dll
 c:\users\kyle waite\documents\visual studio 2015\Projects\MSSA CDA Website\MSSA CDA Website\obj\Debug\MSSA CDA Website.pdb
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\roslyn\csc.exe
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\roslyn\vbc.exe
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\MSSA CDA Website.dll.config
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\MSSA CDA Website.dll
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\MSSA CDA Website.pdb
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\obj\Debug\MSSA CDA Website.csprojResolveAssemblyReference.cache
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\obj\Debug\MSSA CDA Website.dll
+C:\Users\Kyle Waite\Desktop\MSSA-CAD-Website\MSSA CDA Website\MSSA CDA Website\obj\Debug\MSSA CDA Website.pdb
